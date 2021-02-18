@@ -2,7 +2,6 @@
   "name": "fastify-basic-api",
   "version": "1.0.0",
   "description": "This is the implementation of the fastify workshop in the nodecongress",
-  "type": "module",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",

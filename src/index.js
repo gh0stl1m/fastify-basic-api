@@ -1,4 +1,4 @@
-import start from './delivery/http/server.js';
+const start = require('./delivery/http/server.js');
 
 start()
   .then(() => console.log("Server running"))
